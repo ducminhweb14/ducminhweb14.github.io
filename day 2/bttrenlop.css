@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    margin: auto;
+    width: 80%;
+    background-color: #E3AEB1;
+}
+
+
+#quoc-hieu {
+    text-align: center;
+    font-weight: 600;
+    padding-top: 20px;
+    
+
+}
+
+
+#batchuoc {
+    background-color: #E3AEB1;
+    width: 80%;
+    margin: auto;
+    padding: 50px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+#kinhgui {
+    background-color: #E3AEB1;
+    width: 80%;
+    margin: auto;
+    padding-top: 10px;
+    padding-right: 120px;
+    padding-left: 10px;
+    line-height: 1.5;
+    text-align: center;
+}
+.nhunhau {
+    
+    padding-left: 75px;
+    padding-top: 20px;
+    line-height: 1.5;
+    text-align: left;
+}
+
+.khacdi {
+    text-align: right;
+    font-weight: 500;
+    padding-right: 50px;
+    padding-top: 10px;
+}

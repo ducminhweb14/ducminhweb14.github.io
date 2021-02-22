@@ -1,0 +1,26 @@
+.marginbottom15 {
+    margin-bottom: 15px;
+    font-family: sans-serif;
+    color: #464646;
+    
+}
+
+#border {
+    border: black;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: grey;
+    color: #808080;
+}
+
+#caudau {
+    margin-bottom: 8px;
+    font-family: 'Open Sans',  sans-serif;
+}
+
+.nhunhau {
+    margin-top: 32px;
+    margin-bottom: 12px;
+    color: #464646;
+    font-family: 'Open Sans',  sans-serif;
+}
